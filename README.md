@@ -1,1 +1,3 @@
 # Stock-Price-Predictor
+
+This project is a simple and effective Stock Price Prediction system built using Machine Learning in Python. It uses historical stock market data to forecast future stock prices using a Linear Regression model. The data is fetched in real-time using the yfinance library, processed with pandas, and visualized with matplotlib. The model is trained to recognize trends in past closing prices and make predictions for upcoming days. This project is ideal for beginners looking to explore time-series prediction and understand how basic ML models can be applied to real-world financial data.
